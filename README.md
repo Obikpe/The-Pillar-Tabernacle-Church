@@ -86,7 +86,7 @@ The frontend must remain understandable to a developer comfortable with HTML, CS
 └── README.md
 ```
 
-Directories are represented in Git by placeholder files until implementation begins.
+The public website now contains an initial HTML/CSS/JavaScript foundation. Admin and backend folders remain starter structures pending their implementation phases.
 
 ## Important security principles
 
@@ -128,4 +128,4 @@ Directories are represented in Git by placeholder files until implementation beg
 
 ## Project status
 
-**Planning/documentation only.** Folder placeholders and design documents do not mean the applications, database, authentication, integrations or deployment have been implemented.
+**Implementation in progress.** The public website now has an initial static homepage, shared styling, responsive navigation and placeholder page shells. The admin portal and backend remain unimplemented; no Supabase project, database migrations, authentication, integrations or deployment have been configured. Public content placeholders must be replaced with church-approved information before launch.
